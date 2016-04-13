@@ -86,9 +86,12 @@ All team members must vote 1 or 2 to achieve consensus. The team will hear the r
 ```
 
 ## How We Work
+Some things to consider, some may be mutually exclusive:
 
 - TDD
+- Test coverage goals
+- Remote work
+- x % time
 - Pair programming
 - Mobbing
-- Test coverage goals
 - Solo programming
