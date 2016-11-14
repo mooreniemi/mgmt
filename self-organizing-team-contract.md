@@ -3,13 +3,17 @@
 These must be honored by all self-organized teams, to make interoperability possible. Any team formation intended to last longer than 48 hours should run through this doc together.  If a team formation intended to last shorter than 48 hours enters its 49th hour, the team runs through this doc together.
 
 ## Events and Ceremonies
-Event
-Frequency
-When
-Comments
-Team forming  Daily  12:00 p.m Eastern US
-Retro
+| Event   | Frequency | When | Comments |
+|---------|-----------|------|----------|
+| Retro   |           |      |          |
+| Standup |           |      |          |
+| Demo    |           |      |          |
 
+## Questions to ask during Grooming
+
+- Could this ticket be smaller?
+- Do all endpoints exist to implement this functionality?
+- Is integration with any 3rd party services necessary?
 
 ## Definition of Ready
 To be considered Ready, work must be:
@@ -39,27 +43,31 @@ Work is considered Done when the following has been completed:
 - Ticket has been closed/done
 
 ## Communication
-The team will communicate through several media.
-
-In person: Direct communication is preferred
-E-mail: Email List <email@domain.com> mailing list addresses the entire team
-Slack:  #channel
-Outlook: All team members will open permissions on their calendars so that others can see the time, subject, and location of their appointments
 Communication should be direct, honest, and respectful.
-Stand ups: Google Hangout posted in Slack channel
-Pair programming: Screen Hero supplemented with video where agreed upon
-Basic communication: Slack
-Urgent communication: Slack DM, Agile Coach
 Don't rely on JIRA notifications or e-mail for time-sensitive matters.
 Be cognizant of good distributed meeting etiquette and protocols.
 
+The team will communicate through several media.
+
+- In person: Direct communication is preferred
+- E-mail: Email List <email@domain.com> mailing list addresses the entire team
+- Slack:  #channel
+- Outlook: All team members will open permissions on their calendars so that others can see the time, subject, and location of their appointments
+- Stand ups: Google Hangout posted in Slack channel
+- Pair programming: Screen Hero supplemented with video where agreed upon
+- Basic communication: Slack
+- Urgent communication: Slack DM, Agile Coach
+
 ## Decision Leader
 The decision leader for technical issues is the Tech Lead. The decision leader for process issues is the Agile Coach. The decision leader for product issues is the Product Owner.
+
 Any leader may delegate their decision authority where appropriate, such as when a technical member of the team has deeper experience in the decision area than the official decision leader.
 
 ## Attendance
 Planned absences of one week or more should be communicated to the team at least one week in advance. All absences should be communicated to the team as soon as known.
+
 Absences should be communicated to the team via e-mail or Slack. Planned absences should also be entered in Outlook as Out Of Office time. Outlook entries for absences should not invite other team members.
+
 Coverage should be arranged for all planned absences, particularly for specialized roles.
 
 Work in progress should be handed off in a manner that keeps it flowing.
