@@ -76,10 +76,13 @@ Work in progress should be handed off in a manner that keeps it flowing.
 
 ## Decision Rules
 Example rule system (not mandatory):
+
+```
 The team will make decisions based on the following order of precedence:
 1. Consensus (see below for consensus rules)
 2. Decision leader decides after discussion
 3. Delegation
+```
 
 ## Consensus Rules
 Example rule system (not mandatory):
