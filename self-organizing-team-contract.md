@@ -5,9 +5,9 @@ These must be honored by all self-organized teams, to make interoperability poss
 ## Events and Ceremonies
 | Event   | Frequency | When | Comments |
 |---------|-----------|------|----------|
-| Retro   |           |      |          |
-| Standup |           |      |          |
-| Demo    |           |      |          |
+| Retro   | Biweekly  |      |          |
+| Standup | Daily     |      |          |
+| Demo    | Biweekly  |      |          |
 
 ## Questions to ask during Grooming
 
