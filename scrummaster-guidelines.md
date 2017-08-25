@@ -1,6 +1,8 @@
 # scrummaster guidelines
 
-## top level goals: :watch: & :ship: :heavy_check_mark:
+## standup
+
+### top level goals :watch: :chart_with_downwards_trend: & :ship: :heavy_check_mark:
 
 1. standup should be **BRIEF**. eg. capped at 15 minutes for an 11 person
    team (or roughly 1 minute per team count plus some margin)
@@ -10,7 +12,7 @@
 if the talking isn't serving those goals your job is to refocus your team:
 put it in the parking lot! :rotating_light:
 
-## what standup is NOT
+### what standup is NOT
 
 - a time to discuss what decision to make about an issue
   - violates rule 1: does not keep standup BRIEF
@@ -21,7 +23,7 @@ put it in the parking lot! :rotating_light:
     whether work is moving to launched. until work has gotten blocked or
     slowed, why drill down?
 
-## what standup is
+### what standup is
 
 - **a time the whole team is being kept from writing code**
 - a time to see what's moved on the board and what hasn't
@@ -35,14 +37,14 @@ put it in the parking lot! :rotating_light:
 - a time to reshuffle assignment because someone is trying to do too many
   stories at once
 
-## parking lot :car:
+### parking lot :car:
 
 parking lot is where we "park" issues we need to make a decision on or
 form an action item from. at the end of standup you must ensure everyone
 that needs to help clear the lot stays! every parked item should be
 decided on or _assigned to a specific person to do_.
 
-## fist of five :hand:
+### fist of five :hand:
 
 several times during a sprint you should ask for a vote of confidence in
 delivering the sprint on time.
